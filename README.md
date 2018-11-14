@@ -1,6 +1,9 @@
 <h1>Refined Fluent Builder in Java</h1>
 
-Repository holds complete implementation of the Refined Fluent Builder Pattern in Java discussed in the IEEE paper <a href="https://ieeexplore.ieee.org/document/8466532">Refined Fluent Builder in Java</a> <b>published in:</b> <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8430032">2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS)</a>
+Repository holds complete implementation of the Refined Fluent Builder Pattern in Java discussed in the following IEEE paper<br> 
+
+<a href="https://ieeexplore.ieee.org/document/8466532">Refined Fluent Builder in Java</a><br>
+<b>published in:</b> <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8430032">2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS)</a>
 
 <h2>Abstract</h2>
 
