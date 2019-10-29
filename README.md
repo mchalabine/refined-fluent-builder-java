@@ -1,6 +1,6 @@
 <h1>Refined Fluent Builder in Java</h1>
 
-Offers complete implementation of the Refined Fluent Builder Pattern in Java discussed in<br> 
+Implementation of the Refined Fluent Builder Pattern in Java discussed in<br> 
 
 <a href="https://ieeexplore.ieee.org/document/8466532">Refined Fluent Builder in Java</a><br><br>
 <b>Published in:</b> <a href="https://ieeexplore.ieee.org/xpl/mostRecentIssue.jsp?punumber=8430032">2018 IEEE/ACIS 17th International Conference on Computer and Information Science (ICIS)</a>
